@@ -1,1 +1,1 @@
-# info
+# <img src="favicon.png" width="28" alt=""> info
